@@ -1,6 +1,6 @@
-# android_device_samsung_j5lte
+# android_device_samsung_j5xnlte
 
-## Device tree for Samsung Galaxy J5 LTE
+## Device tree for Samsung Galaxy J5 2016
 
 Basic   | Spec Sheet
 -------:|:-------------------------
